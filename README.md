@@ -47,13 +47,15 @@ $ ls -la | wc -l
 
 ```
 $ ls -lAR | grep "\.hpp" | wc -l
-$ ls -lAR | grep "\.hpp" | wc -l
-$ ls -lAR | grep "\.hpp" | wc -l
+$ ls -lAR | grep "\.cpp" | wc -l
+$ ls -lAR | grep "\.hpp" -v | grep "\.cpp" -v | wc -l
 ```
 
 >ls -A – убирает файлы, начинающиеся с . или ..
 
 >ls -R – отображает содержимое поддиректорий (если это не написать, то выводит 0)
+
+>-v – 
 
 ### Найдите полный пусть до файла any.hpp внутри библиотеки boost.
 
