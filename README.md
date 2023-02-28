@@ -79,12 +79,39 @@ $ grep -Rl "boost::asio"
 
 ___
 
+```
+$ sudo apt install libicu-dev
+```
 
+Создаем папку "boost_output" в папке ~/boost_1_69_0
 
+```
+$ mkdir boost_output
+```
 
+Установить пакеты, необходимые для сборки
 
+```
+$ sudo apt install gcc
+$ sudo apt install build-essential
+```
+Далее действуем по инструкции из лабы
 
+```
+$ ./bootstrap.sh --prefix=boost_output
+$ ./b2 install
+```
 
+Данная команда будет выполняться долго: 30 мин примерно
 
+Переносим все скомпилированные на предыдущем шаге статические библиотеки в директорию ~/boost-libs
 
+```
+$ mv ~/boost_1_69_0/boost_output/lib/ ~/boost-libs/
+```
 
+Изменить директорию
+
+```
+$ cd ~/boost-libs
+```
