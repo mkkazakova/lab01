@@ -132,3 +132,27 @@ $ du -h -a | sort -h
 ```
 $ du -ha | sort -rh | head -n 10
 ```
+
+## Скрины
+
+![image](https://user-images.githubusercontent.com/125077130/222186623-37ab267b-faa0-47b0-8209-cd6fd8c56fca.png)
+
+![image](https://user-images.githubusercontent.com/125077130/222186683-58367597-2eab-448c-8ebf-6cec95172fbb.png)
+
+![image](https://user-images.githubusercontent.com/125077130/222186734-a47c09e6-e01c-4f90-a61f-57fc1ccf368a.png)
+
+![image](https://user-images.githubusercontent.com/125077130/222186770-67bf1dcf-8500-4a2b-bc8d-37429032731e.png)
+
+![image](https://user-images.githubusercontent.com/125077130/222186805-0d7115bc-f9e6-4005-ac0a-00c0320090db.png)
+
+![image](https://user-images.githubusercontent.com/125077130/222186838-1924d2ec-d933-461c-95c6-0358c4cd4211.png)
+
+![image](https://user-images.githubusercontent.com/125077130/222186890-94285373-82df-4fd8-adef-5f200b3530d1.png)
+
+![image](https://user-images.githubusercontent.com/125077130/222186956-633ce1b9-698f-4c26-80af-b6da48f1f223.png)
+
+![image](https://user-images.githubusercontent.com/125077130/222186988-0786de7c-747b-4c3b-87d8-b8c50663282e.png)
+
+![image](https://user-images.githubusercontent.com/125077130/222187022-cf507cbf-865a-4f43-bdea-7c47972c7572.png)
+
+![image](https://user-images.githubusercontent.com/125077130/222187054-6d5ebaa7-53bc-4f24-8bb7-7985b221167c.png)
